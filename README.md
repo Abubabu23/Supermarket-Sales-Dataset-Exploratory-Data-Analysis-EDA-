@@ -1,9 +1,4 @@
 
-This project performs **Exploratory Data Analysis (EDA)** on a supermarket sales dataset to understand **customer behavior, product performance, branch-wise sales, and time-based trends**.  
-The analysis provides actionable insights to improve **sales strategies, inventory management, and marketing decisions**.
-
-
-
 ## Business Objective
 
 To analyze supermarket sales data in order to:
