@@ -1,4 +1,3 @@
-<img width="608" height="563" alt="image" src="https://github.com/user-attachments/assets/07865b65-914b-46e9-a866-ca2b62fffb0b" /># Supermarket Sales Dataset – Exploratory Data Analysis (EDA)
 
 This project performs **Exploratory Data Analysis (EDA)** on a supermarket sales dataset to understand **customer behavior, product performance, branch-wise sales, and time-based trends**.  
 The analysis provides actionable insights to improve **sales strategies, inventory management, and marketing decisions**.
